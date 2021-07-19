@@ -220,6 +220,9 @@ body {
 .bestperforming .container .sub_container .row:first-child h1{
     font-family: rb;
     font-weight: 200;
+    font-size: 30px;
+    padding-top: 3px;
+    padding-bottom: 12px;
 }
 
 .bestperforming .container .sub_container .row:last-child{
@@ -279,6 +282,9 @@ body {
 .recommended .container .sub_container .row:first-child h1{
     font-family: rb;
     font-weight: 200;
+    font-size: 30px;
+    padding-top: 3px;
+    padding-bottom: 12px;
 }
 
 .recommended .container .sub_container .row:last-child{
